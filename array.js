@@ -7,6 +7,8 @@ console.log(Math.max(...array));
 array.sort((a, b) => a - b)
 console.log(array.join(", "))
 
+console.log(array.sort((x, y) => x < y ? -1 : 1))
+
 //4
 let max = array[array.length - 1]
 console.log(`Maximum: ${max}`)
@@ -29,3 +31,13 @@ console.log(`Maximum: ${maxUsingReduce()}`)
 //6
 const countOccurrences = arr => arr.reduce((prev, curr) => (prev[curr] = ++prev[curr] || 1, prev), {});
 console.log(countOccurrences(array));
+
+let resArray = [];
+let str = "This is my array"
+for (let i = 9; i < str.length; i++) {
+    if (resArray[str[i]] == null)
+        resArray[str[i]] = 1;
+    else resArray[str[i]]++;
+}
+
+console.log(resArray);

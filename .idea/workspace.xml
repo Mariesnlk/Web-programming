@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="402e9c7c-f6f2-424a-9097-9a11338f166b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Async/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session/counter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serialization.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anagrams/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Anagrams/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.js" beforeDir="false" afterPath="$PROJECT_DIR$/array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfirst.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nKr6fzkP9JyLMQyE9t6pHX4R0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Марія\WebstormProjects\Web\Async" />
+      <recent name="C:\Users\Марія\WebstormProjects\Web\Anagrams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js (2)">
+    <configuration name="async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Async/async.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="client.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Async/client.js" working-dir="$PROJECT_DIR$/Async">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Async/main.js" working-dir="$PROJECT_DIR$/Async">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Session/main.js" working-dir="$PROJECT_DIR$/Session">
+      <method v="2" />
+    </configuration>
+    <configuration name="task2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Async/task2.js" working-dir="$PROJECT_DIR$/Async">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js (2)" />
+        <item itemvalue="Node.js.task2.js" />
+        <item itemvalue="Node.js.client.js" />
+        <item itemvalue="Node.js.main.js (1)" />
+        <item itemvalue="Node.js.async.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402e9c7c-f6f2-424a-9097-9a11338f166b" name="Default Changelist" comment="" />
+      <created>1611149449255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611149449255</updated>
+      <workItem from="1611149450313" duration="1080000" />
+      <workItem from="1611169705459" duration="2462000" />
+      <workItem from="1611409886247" duration="10998000" />
+      <workItem from="1611752073518" duration="2512000" />
+      <workItem from="1612892770756" duration="298000" />
+      <workItem from="1615744679202" duration="289000" />
+      <workItem from="1616594612406" duration="137000" />
+      <workItem from="1616597183443" duration="3470000" />
+      <workItem from="1617191043731" duration="7823000" />
+    </task>
+    <task id="LOCAL-00001" summary="added anagrams lab">
+      <created>1611434335329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611434335330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added anagrams lab">
+      <created>1611434391112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611434391112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added anagrams lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="added anagrams lab" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1611434390538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1611434390538" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1611434184261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611434184261" />
+    <state width="1222" height="135" key="GridCell.Tab.0.bottom" timestamp="1617202125831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617202125831" />
+    <state width="1222" height="135" key="GridCell.Tab.0.center" timestamp="1617202125831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617202125831" />
+    <state width="1222" height="135" key="GridCell.Tab.0.left" timestamp="1617202125831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617202125831" />
+    <state width="1222" height="135" key="GridCell.Tab.0.right" timestamp="1617202125831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617202125831" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1611434394705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1611434394705" />
+    <state x="442" y="248" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1611434316306">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="442" y="248" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1611434316306" />
+    <state x="471" y="132" key="svn.repositoryBrowser" timestamp="1611416183004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="132" key="svn.repositoryBrowser/0.0.1280.680@0.0.1280.680" timestamp="1611416183004" />
+  </component>
+</project>
